@@ -1,0 +1,9 @@
+Tort de ciocolata,300.0,20.0
+Tort tiramisu,224.0,10.0
+Tort cu cafea,170.0,15.0
+Tort diplomat,276.0,24.0
+Tort cu fructe,340.0,32.0
+Tort de lamaie,17.0,21.0
+Tort vanilie,200.0,32.0
+Tort oreo,100.0,23.0
+Tort cu rom,320.0,24.0
